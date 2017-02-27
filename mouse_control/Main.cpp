@@ -1,9 +1,3 @@
-// Hand tracking using meanshift and mouse control
-// Author : zouxy
-// Date   : 2014-01-06
-// HomePage : http://blog.csdn.net/zouxy09
-// Email  : zouxy09@qq.com
-
 #include "opencv2/opencv.hpp"
 #include "handTracker.h"
 #include<windows.h>
